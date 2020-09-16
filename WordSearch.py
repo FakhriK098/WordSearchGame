@@ -1,7 +1,8 @@
 import numpy as np
 import pandas as pd
 
-dataPetak = pd.read_csv('macammacamtakjil.csv')  #the task is made by Benazio (
+dataPetak = pd.read_csv('macammacamtakjil.csv')  #the game is made by Benazio (ig: @benakibro)
+#i'm using the word game is from the book which is PetakUmpat (WordSearch Edition)
 petak = np.array(dataPetak)
 
 print("Word Search by Bena Kribo \n(Macam-Macam Takjil Edition)")
